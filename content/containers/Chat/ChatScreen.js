@@ -19,6 +19,9 @@ import {fetchGirl} from './../../action/girlAction';
  */
 import {connect} from 'react-redux';
 class ChatScreen extends React.Component {
+  static navigationOptions = {
+    title: '聊天',
+  }
   constructor(props) {
     super(props);
     // 初始状态
@@ -62,6 +65,7 @@ class ChatScreen extends React.Component {
       return (
         <ScrollView>
           <ListView
+          
             dataSource={this
             .dataSource
             .cloneWithRows(girlReducer.girlList)}

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
         "merged": "/Users/upmi_imac01/workSpace/reactNative/AwesomeProject/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/Users/upmi_imac01/workSpace/reactNative/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
     }
