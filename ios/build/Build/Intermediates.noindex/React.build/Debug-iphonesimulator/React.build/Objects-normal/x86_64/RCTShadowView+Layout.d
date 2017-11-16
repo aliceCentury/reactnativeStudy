@@ -1,0 +1,16 @@
+dependencies: \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTShadowView+Layout.m \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

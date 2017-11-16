@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTRootView.m \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTRootViewInternal.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTView.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/upmi_imac01/workSpace/reactNative/reactnativeStudy/node_modules/react-native/React/Views/UIView+React.h
