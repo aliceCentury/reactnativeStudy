@@ -2,10 +2,10 @@
  * Created by gaocai on 16/9/19.
  */
 import {combineReducers} from 'redux';
-import auctionReducer from './auctionReducer';
+import girlReducer from './girlReducer';
 
 const rootReducer = combineReducers({
-    auctionReducer
+    girlReducer
 });
 
 export default rootReducer;

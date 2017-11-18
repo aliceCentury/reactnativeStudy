@@ -2,7 +2,7 @@ import React, { Component }  from 'react';
 import { StyleSheet,Image,TouchableOpacity,DrawerLayoutAndroid, Text, View,Dimensions,ToolbarAndroid } from 'react-native';
 import IconFont from '../../component/IconFont';
 import Ionicons from 'react-native-vector-icons/Ionicons';
-import { TabNavigator } from 'react-navigation';
+import { TabNavigator,StackNavigator } from 'react-navigation';
 import CrowdfundScreen from "./../Crowdfund/CrowdfundScreen"
 import AuctionScreen from "./../Auction/AuctionScreen"
 import BidScreen from "./../Bid/BidScreen"
@@ -16,7 +16,7 @@ const basePx = 375
 function px2dp(px) {
   return px *  deviceW / basePx
 }
-const HomeScreen = TabNavigator({
+const NavigatorWrappingScreen = TabNavigator({
   Crowdfund: {
     screen: CrowdfundScreen,
     navigationOptions: {
@@ -67,11 +67,16 @@ const HomeScreen = TabNavigator({
     },
   }
 }, {
+  animationEnabled:true,
   tabBarOptions: {
     activeTintColor: '#e3b76d',
   },
 });
-
+const HomeScreen = StackNavigator({
+  Home: { screen: NavigatorWrappingScreen }
+},{
+  headerMode: 'none',
+});
 
 
   
